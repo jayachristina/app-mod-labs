@@ -25,3 +25,4 @@ Take a look at the [Konveyor Community’s Application Modernization Report for 
 * Red Hat Runtimes (Quarkus, Spring Boot, Node.js, Tomcat)
 * Red Hat OpenShift (Pipeline, GitOps, Virtualization)
 * Oracle Database and PostgreSQL
+
